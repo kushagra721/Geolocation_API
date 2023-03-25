@@ -1,0 +1,31 @@
+
+
+#getLocation{
+    height: 3vw;
+    width: 15vw;
+    margin: 10px;
+    border-radius: 30px;
+   
+
+   color: aliceblue;
+  
+    
+    background-color: black;
+}
+
+#remove{
+    height: 3vw;
+    width: 15vw;
+    margin: 10px;
+    margin-top: 2vw;
+
+    border-radius: 30px;
+   
+
+   color: aliceblue;
+  
+    
+    background-color: black;
+
+}
+
